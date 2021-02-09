@@ -2,4 +2,8 @@ this is for testing
 
 adding requitment.txt
 feature added .1.1
+<<<<<<< HEAD
 base feature 1
+=======
+feature 2_1.0
+>>>>>>> rel_1.0
