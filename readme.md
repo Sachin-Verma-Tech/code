@@ -1,8 +1,7 @@
 This is read me document
 
 added main files
-src/main.txt
-text.main.txt
+sathish@qualitythought.in
+C744-44C9-9376-20A5-1DF7-923B-EA15-72DC
 
-addes requriments.txt
-src/requirment.txt
+feature added .1.1
